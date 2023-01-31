@@ -48,8 +48,8 @@ The second step you want to create your virtual machine, the virtual machine is 
 
 ![How to create a Virtual Machine in Azure - YouTube and 5 more pages - Personal - Microsoft​ Edge 1_31_2023 3_44_39 PM](https://user-images.githubusercontent.com/123784624/215890638-f15b295a-7132-4ab0-8cb2-7fdb0286c5d0.png)
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+The last step of creating a virtual machine you want to deploy it, make sure you write down any passwords you created and check for any errors. once you are finish deploying you want to connect to remote desktop, after you disconnect from remote desktop you want to delete your virtual machine. 
 </p>
 <br />
