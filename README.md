@@ -4,8 +4,6 @@
 ![328595051_627282095825055_1367263818438336558_n](https://user-images.githubusercontent.com/123784624/215875337-bef52e8d-d74b-4454-8fb5-16a8049cc56d.png)
 
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -33,9 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 ![How to create a Virtual Machine in Azure - YouTube and 5 more pages - Personal - Microsoft​ Edge 1_31_2023 2_45_11 PM](https://user-images.githubusercontent.com/123784624/215879361-ec62223c-abb5-4863-b0f3-fd05b51ff642.png)>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+For your first step you want to create a resource group, a resouce group is a container that store your resouces. you want to give your resource group a name and select a region you live in, after you select the region you want to click review and create. Make sure your validation pass!
 </p>
 <br />
 
