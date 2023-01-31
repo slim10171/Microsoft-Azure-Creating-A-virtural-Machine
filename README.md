@@ -1,7 +1,6 @@
 # Microsoft-Azure-Creating-A-virtural-Machine
 <p align="center">
-<https://www.bing.com/images/search?view=detailV2&ccid=YNS5204K&id=F2FDF49C5D3F4B2270167F5F5EF3B7CE8D05917E&thid=OIF.%2fU0iaRIkanQ8x0tD%2bx2MHQ&mediaurl=https%3a%2f%2fwww.imagar.com%2fwp-content%2fuploads%2f2018%2f06%2fazure.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.60d4b9db4e0accc6533623b60211b435%3frik%3d%26pid%3dImgRaw%26r%3d0&exph=296&expw=474&q=Microsoft+Azure&simid=187742711364&FORM=IRPRST&ck=FD4D226912246A743CC74B43FB1D8C1D&selectedIndex=7&ajaxhist=0&ajaxserp=0>
-</p>
+<![azure pic](https://user-images.githubusercontent.com/123784624/215869649-30ebfdde-2d51-4d74-84d4-ed9f26be11c8.jpg)
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
