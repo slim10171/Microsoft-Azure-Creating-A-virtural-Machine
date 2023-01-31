@@ -33,15 +33,15 @@
 ![How to create a Virtual Machine in Azure - YouTube and 5 more pages - Personal - Microsoft​ Edge 1_31_2023 2_45_11 PM](https://user-images.githubusercontent.com/123784624/215879361-ec62223c-abb5-4863-b0f3-fd05b51ff642.png)
 
 
-For your first step you want to create a resource group, a resouce group is a container that store your resouces. you want to give your resource group a name and select a region you live in, after you select the region you want to click review and create. Make sure your validation pass!
+For your first step you want to create a resource group, a resouce group is a container that store your resouces. you want to give your resource group a name and select a region you live in "US east", after you select the region you want to click review and create. Make sure your validation pass!
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![How to create a Virtual Machine in Azure - YouTube and 5 more pages - Personal - Microsoft​ Edge 1_31_2023 3_23_56 PM](https://user-images.githubusercontent.com/123784624/215886748-a71fc1d0-511f-4fcf-8e83-42c5fd6cbf94.png)
+
+
+The second step you want to create your virtual machine, the virtual machine is a virtual computer that allows you to perform task without messing up your main computer. You want to name your virtual machine and also select the same region as you gave your search group "US east". Any tabs your not aware of leave default, but you also want to give your virtual machin a iso image which can be windows 10 or any other images that are available. Once you have your image selected you want to click review and create. 
 </p>
 <br />
 
