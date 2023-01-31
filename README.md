@@ -32,8 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![How to create a Virtual Machine in Azure - YouTube and 5 more pages - Personal - Microsoft​ Edge 1_31_2023 2_45_11 PM](https://user-images.githubusercontent.com/123784624/215879361-ec62223c-abb5-4863-b0f3-fd05b51ff642.png)>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
