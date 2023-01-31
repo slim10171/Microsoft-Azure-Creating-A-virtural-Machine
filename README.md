@@ -30,7 +30,7 @@
 
 <h2>Installation Steps</h2>
 
-![How to create a Virtual Machine in Azure - YouTube and 5 more pages - Personal - Microsoft​ Edge 1_31_2023 2_45_11 PM](https://user-images.githubusercontent.com/123784624/215879361-ec62223c-abb5-4863-b0f3-fd05b51ff642.png)>
+![How to create a Virtual Machine in Azure - YouTube and 5 more pages - Personal - Microsoft​ Edge 1_31_2023 2_45_11 PM](https://user-images.githubusercontent.com/123784624/215879361-ec62223c-abb5-4863-b0f3-fd05b51ff642.png)
 
 
 For your first step you want to create a resource group, a resouce group is a container that store your resouces. you want to give your resource group a name and select a region you live in, after you select the region you want to click review and create. Make sure your validation pass!
